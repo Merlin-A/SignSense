@@ -11,9 +11,9 @@
 <h3> Sign Language Detection & Translation Web App </h3>
 <strong>Developed By - </strong>
 <ul>  
-  <li> <a href = "https://github.com/Atharva0402">Atharva Kadam</a></li>
+  <li> <a href = "https://www.linkedin.com/in/atharva-kadam-07b101228/">Atharva Kadam</a></li>
   <li> <a href = "https://www.linkedin.com/in/aditya-ace/">Aditya A</a></li>
-  <li> <a href = "https://www.behance.net/makarandwarade">Makarand Warade</a></li>
+  <li> <a href = "https://www.linkedin.com/in/makarand-warade-9a1b32230/">Makarand Warade</a></li>
   
   
   
