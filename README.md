@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 
-<h2>SignSense  <img src = "https://user-images.githubusercontent.com/78374254/181934274-eae9e279-1624-4e07-a1fa-57e6bae3f8a1.png" height = 35px; width = 35px;</h2> 
+<h2>SignSense  <img src = "./pics/SignSense.png" height = 35px; width = 35px;</h2> 
 
 <h3> Sign Language Detection & Translation Web App </h3>
 <strong>Developed By - </strong>
