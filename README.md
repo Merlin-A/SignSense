@@ -2,6 +2,7 @@
 ![ASL](https://img.shields.io/badge/Sign_Language-Translation-red?style=for-the-badge)
 
 
+
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 
@@ -23,29 +24,18 @@
 ## Toolset 🛠️
 <i> Languages, Equipments, Environment </i>
 
-
+![Python](https://img.shields.io/badge/Python-fed436?style=for-the-badge&logo=python)
+![Mediapipe](https://img.shields.io/badge/Mediapipe-%23FF474C?style=for-the-badge&logo=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTi9TmikYW0uj3kX-OyYSNm_uwxiWOUTNoEzA%26s&link=https%3A%2F%2Fai.google.dev%2Fedge%2Fmediapipe%2Fsolutions%2Fguide)
+![Sklearn](https://img.shields.io/badge/Scikit_Learn-%23f99938?style=for-the-badge&logo=Scikit%20learn&logoColor=black)
+![Numpy](https://img.shields.io/badge/Numpy-%234d76ce?style=for-the-badge&logo=Numpy)
 ![OpenCV](https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv)
+<br/>
 ![Pickle](https://img.shields.io/badge/pickle-green?style=for-the-badge&logo=pickle)
-![Flask](https://img.shields.io/badge/Flask-65DAF7?style=for-the-badge&logo=flask)
+![Flask](https://img.shields.io/badge/Flask-65DAF7?style=for-the-badge&logo=flask&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
-
-
-***Related Equipments***
-
-
-<ul>
-  <li>Node MCU</li>
-  <li>F-F Connector Cables</li>
-  <li>USB Cable Connector</li>
-  <li>LED Traffic Lights</li>
- 
-</ul>
-  
-  <br>
 
 ## OverView 🔎
 
