@@ -55,7 +55,7 @@ SignSense is a sign language detection system aimed at bridging communication ga
  The project development has been divided into two parts, Model Development & Front-End Integration. 
 
 ### Model Development 
-<img src = "./pics/image1.png" height = 400px width = 600px>
+<img src = "./pics/image.png" height = 500px width = 800px>
 This stage involves creation of the Machine Learning Model, and exporting it inorder use in integration. 
 <li>Dataset Creation</li>
 <li>Data Processing</li>
@@ -65,8 +65,8 @@ This stage involves creation of the Machine Learning Model, and exporting it ino
 <br/>
 
 ### Front End Integration 
-<img src = "./pics/image.png" height = 500px width = 800px>
 
+<img src = "./pics/image1.png" height = 400px width = 600px>
 This stage involves creation of the Integrated ML Model with Front End using Flask Framework. 
 <br/>
 
