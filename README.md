@@ -67,7 +67,7 @@ This stage involves creation of the Integrated ML Model with Front End using Fla
 ## Implementation 🖑🏾
 1. Simply Download 
 2. Open PowerShell in your downloaded directory and run the following command.
-  <pre><code>pip download -r requirements.txt </code></pre>
+    <pre><code>pip download -r requirements.txt </code></pre>
 
 3. Once the Process is Complete, run the following Commands.
     <pre><code> cd Deploy </code></pre>
@@ -75,8 +75,18 @@ This stage involves creation of the Integrated ML Model with Front End using Fla
     
     Click on the link, and the browser window would pop up. 
 
- 
+## Update
+To create your own model follow the following steps. 
+1.  <pre><code>cd Model</code></pre>
+2.  <pre><code>python collect_imgs.py</code></pre>
+  Enter the No. of letters you want to train and the number of images you want to collect for each letter. 
+  To start capturing press G. 
+  
+3. <pre><code>python create_dataset.py</code></pre>
+4. <pre><code>python train_classifier.py</code></pre>
+5. <pre><code>python inference_classifier.py</code></pre>
 
+Then copy the model.p into the Models directory of Deployment Folder and Simply follow the Implementation. 
 
   
   <center><footer><strong><i>Any Suggestion, Contribution and Forking is Highly Appreciated!!</i></strong></footer></center>
