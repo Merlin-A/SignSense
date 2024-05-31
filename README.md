@@ -1,3 +1,4 @@
+
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-SVM-blue?style=for-the-badge)
 ![ASL](https://img.shields.io/badge/Sign_Language-Translation-red?style=for-the-badge)
 <br/>
@@ -5,7 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 
-<h2>SignSense</h2> 
+<h2>SignSense <img src = "./pics/SignSense.png" height = 25px width = 50px /></h2> 
 
 <h3> Sign Language Detection & Translation Web App </h3>
 <strong>Developed By - </strong>
