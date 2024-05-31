@@ -45,7 +45,7 @@ SignSense is a sign language detection system aimed at bridging communication ga
 
 
 <br><i>
-<a href = "https://en.wikipedia.org/wiki/Sign_language">Sign Language</a> is a vital means of communication for millions of individuals worldwide, particularly those who are deaf or hard of hearing. This software, aptly named SignSense, leverages Computer Vision and Machine Learning techniques to Detect and Translate Sign Language Gestures into Text in real time.
+<a href = "https://en.wikipedia.org/wiki/Sign_language" target="_blank">Sign Language</a> is a vital means of communication for millions of individuals worldwide, particularly those who are deaf or hard of hearing. This software, aptly named SignSense, leverages Computer Vision and Machine Learning techniques to Detect and Translate Sign Language Gestures into Text in real time.
 <br>
 </i>
 
