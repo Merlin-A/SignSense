@@ -90,7 +90,7 @@ To create your own model follow the following steps.
   
 3. <pre><code>python create_dataset.py</code></pre>
 4. <pre><code>python train_classifier.py</code></pre>
-5. <pre><code>python inference_classifier.py</code></pre>
+5. <pre><code>python test_classifier.py</code></pre>
 
 Then copy the model.p into the Models directory of Deployment Folder and Simply follow the Implementation. 
 
