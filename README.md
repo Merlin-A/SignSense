@@ -1,12 +1,11 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
 ![ASL](https://img.shields.io/badge/Sign_Language-Translation-red?style=for-the-badge)
-
-
-
+<br/>
+<br/>
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 
-<h2>SignSense  <img src = "./pics/SignSense.png" height = 30px; width = 35px;</h2> 
+<h2>SignSense</h2> 
 
 <h3> Sign Language Detection & Translation Web App </h3>
 <strong>Developed By - </strong>
@@ -36,21 +35,19 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
 ## OverView 🔎
 
 <br>
-IoT based Traffic Signals, developed to be implemented in special conditions to manipulate the Traffic Lights during a Green Coridor.
+SignSense is a sign language detection system aimed at bridging communication gaps for the hearing impaired.
 
 
 <br><i>
-The <a href = "https://www.donatelife.org.in/green-corridor-system">Green Corridor</a> system is one way to expedite organ transplants and save lives. 
-In this a special route that is managed in a way that all the traffic signals that come in the route of the hospital where an organ is harvested and the hospital where it is to be transplanted, are green and controlled manually.
+<a href = "https://en.wikipedia.org/wiki/Sign_language">Sign Language</a> is a vital means of communication for millions of individuals worldwide, particularly those who are deaf or hard of hearing. This software, aptly named SignSense, leverages Computer Vision and Machine Learning techniques to Detect and Translate Sign Language Gestures into Text in real time.
 <br>
 </i>
 
 
-We have created a IoT Based model to expedite the task of manipulating the Traffic Signals during such an Emergency. 
+We have created a ML based SVM model that . 
 
 On Clicking a Button, the program will toggle the lights to Go Green and All the other lights on the intersection to Go Red.
 
@@ -67,7 +64,7 @@ WiFi WebServer (ESP8266 WiFi Module)has been used to make it more effective for 
 
 <img src = "https://user-images.githubusercontent.com/78374254/181934565-696a8b58-8659-4902-96b2-e44b006ec83e.jpeg" height = 640px; width = 360px; />
 
-<br>
+<br>  
   
   <center><footer><strong><i>Any Suggestion, Contribution and Forking is Highly Appreciated!!</i></strong></footer></center>
 
