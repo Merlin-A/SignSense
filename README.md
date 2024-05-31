@@ -1,4 +1,4 @@
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-SVM-blue?style=for-the-badge)
 ![ASL](https://img.shields.io/badge/Sign_Language-Translation-red?style=for-the-badge)
 <br/>
 <br/>
@@ -63,6 +63,17 @@ This stage involves creation of the Machine Learning Model, and exporting it ino
 ### Front End Integration 
 This stage involves creation of the Integrated ML Model with Front End using Flask Framework. 
 <br/>
+
+## Implementation 🖑🏾
+1. Simply Download 
+2. Open PowerShell in your downloaded directory and run the following command.
+  <pre><code>pip download -r requirements.txt </code></pre>
+
+3. Once the Process is Complete, run the following Commands.
+    a. <pre><code> cd Deploy </code></pre>
+    b. <pre><code> python app.py </code></pre>
+    c. Click on the link, and the browser window would pop up. 
+
  
 
 
