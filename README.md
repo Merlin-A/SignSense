@@ -46,25 +46,26 @@ SignSense is a sign language detection system aimed at bridging communication ga
 <br>
 </i>
 
-
-We have created a ML based SVM model that . 
-
-On Clicking a Button, the program will toggle the lights to Go Green and All the other lights on the intersection to Go Red.
+## Development 🔧
 
 
+ The project development has been divided into two parts, Model Development & Front-End Integration. 
 
-It has been developed for  a T Intersection, but can easily be modified for any number of intersecting roads 
+### Model Development 
+This stage involves creation of the Machine Learning Model, and exporting it inorder use in integration. 
+<li>Dataset Creation</li>
+<li>Data Processing</li>
+<li>Model Training</li>
+<li>Model Testing</li>
+<li>Model Export</li>
+<br/>
 
-<hr>
-<img src = "https://user-images.githubusercontent.com/78374254/181926279-33f7327b-8659-46e1-b4c5-875c6bfcb0b5.png" height = 600px; width = 800px; />
+### Front End Integration 
+This stage involves creation of the Integrated ML Model with Front End using Flask Framework. 
+<br/>
+ 
 
-<br> 
 
-WiFi WebServer (ESP8266 WiFi Module)has been used to make it more effective for real time application. The Traffic Signals can be toggled with a single touch from a Smartphone. 
-
-<img src = "https://user-images.githubusercontent.com/78374254/181934565-696a8b58-8659-4902-96b2-e44b006ec83e.jpeg" height = 640px; width = 360px; />
-
-<br>  
   
   <center><footer><strong><i>Any Suggestion, Contribution and Forking is Highly Appreciated!!</i></strong></footer></center>
 
