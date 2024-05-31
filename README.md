@@ -1,4 +1,4 @@
-[![IoT](https://img.shields.io/badge/Internet%20of%20Things-&%20Embedded%20System-302AE6?style=for-the-badge)](https://randomnerdtutorials.com/esp8266-web-server/)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
