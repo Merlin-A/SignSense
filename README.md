@@ -12,7 +12,9 @@
 <ul>  
   <li> <a href = "https://github.com/Atharva0402">Atharva Kadam</a></li>
   <li> <a href = "https://www.linkedin.com/in/aditya-ace/">Aditya A</a></li>
-  <li> Makarand Warade </li>
+  <li> <a href = "https://www.behance.net/makarandwarade">Makarand Warade</a></li>
+  
+  
   
 </ul>
 
