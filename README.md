@@ -70,9 +70,10 @@ This stage involves creation of the Integrated ML Model with Front End using Fla
   <pre><code>pip download -r requirements.txt </code></pre>
 
 3. Once the Process is Complete, run the following Commands.
-    a. <pre><code> cd Deploy </code></pre>
-    b. <pre><code> python app.py </code></pre>
-    c. Click on the link, and the browser window would pop up. 
+    <pre><code> cd Deploy </code></pre>
+    <pre><code> python app.py </code></pre>
+    
+    Click on the link, and the browser window would pop up. 
 
  
 
